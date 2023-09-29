@@ -1,4 +1,4 @@
-# OpenAI's Chatbot 
+# sujay's Chatbot 
 
 
 
@@ -32,7 +32,7 @@ export OPENAI_API_KEY='your-api-key-here'
 python app.python
 ```
 
-5. Open your web browser and navigate to http://localhost:5000 to use the chatbot.
+5. Open your web browser and navigate to http://localhost:8000 to use the chatbot.
 
 ## Usage
 
